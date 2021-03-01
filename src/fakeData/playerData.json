@@ -1,0 +1,72 @@
+
+[{
+    "id": 1,
+    "name": "Sakib Al Hasan",
+    "gender": "Genderfluid",
+    "about": "All-Rounder",
+    "image": "https://lh3.googleusercontent.com/MBbUngrcv1Vk7q78AVPz6SXFxlozMb-ZAFchgH4LYQSZemNP4d8qjYlk-Nyvi9C0nR5g6uDHGMrpD2paQQyeehc80DzSHsT3Nf0=s1500",
+    "salary": 71276
+  }, {
+    "id": 2,
+    "name": "Mahmudullah Riyad",
+    "gender": "Bigender",
+    "about": "All-Rounder",
+    "image": "https://www.bdcrictime.com/wp-content/uploads/2017/06/Mahmudullah-102-vs-NZ.png",
+    "salary": 63747
+  }, {
+    "id": 3,
+    "name": "Mohammad Saifuddin ",
+    "gender": "Non",
+    "about": "All-Rounder",
+    "image": "https://www.daily-bangladesh.com/media/imgAll/2020March/en/Saifuddin-2006011031.jpg",
+    "salary": 91192
+  }, {
+    "id": 4,
+    "name": "Mushfiqur Rahim",
+    "gender": "Genderfluid",
+    "about": "Wicketkeeper Batsman",
+    "image": "https://imagevars.gulfnews.com/2019/11/04/Bangladesh-s-Mushfiqur-Rahim_16e356872c0_medium.jpg",
+    "salary": 88020
+  }, {
+    "id": 5,
+    "name": "Liton Das",
+    "gender": "Genderfluid",
+    "about": "Wicketkeeper Batsman",
+    "image": "https://www.cricxtasy.com/wp-content/uploads/2020/03/Liton-Das.jpg",
+    "salary": 56689
+  }, {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "gender": "Bigender",
+    "about": "Bowler",
+    "image": "https://www.daily-bangladesh.com/media/imgAll/2018/mustafizz-58871-1541164091.jpg",
+    "salary": 91052
+  }, {
+    "id": 7,
+    "name": "Mashrafee Bin Mortuza",
+    "gender": "Genderfluid",
+    "about": "Bowler",
+    "image": "https://ss.thgim.com/cricket/article27263506.ece/alternates/FREE_380/mashrafe-mortazajpg",
+    "salary": 82939
+  }, {
+    "id": 8,
+    "name": "Tamim Iqbal",
+    "gender": "Male",
+    "about": "Batsman",
+    "image": "https://ss.thgim.com/cricket/article27263543.ece/alternates/FREE_380/tamim-iqbaljpg",
+    "salary": 60764
+  }, {
+    "id": 9,
+    "name": "Somya Sarker",
+    "gender": "Polygender",
+    "about": "Batsman",
+    "image": "https://resources.pulse.icc-cricket.com/players/284/1919.png",
+    "salary": 92695
+  }, {
+    "id": 10,
+    "name": "Sabbir Rahman",
+    "gender": "Male",
+    "about": "Batsman",
+    "image": "https://starsunfolded.com/wp-content/uploads/2017/01/Sabbir-Rahman-Profile.jpg",
+    "salary": 95093
+  }]
